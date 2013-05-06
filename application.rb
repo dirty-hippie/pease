@@ -1,6 +1,6 @@
 require 'grape'
 require 'multi_json'
-require_relative 'api/api'
+require_relative 'app/api'
 
 module Pease
   class App
